@@ -1,0 +1,26 @@
+body{
+	background-color: pink;
+}
+h1{
+	color: skyblue;
+	font-style: century gothic;
+}
+input[type="text"]{
+	margin-left: 92px;
+}
+input[type="email"]{
+	margin-left: 94px;
+}
+input[type="phone"]{
+	margin-left: 124px;
+}
+input[type="message subject"]{
+	margin-left: 56px;
+}
+input[type="message"]{
+	margin-left: 108px;
+}
+input[type="submit"]{
+	margin-left: 100px;
+	background-color: skyblue;
+	}
